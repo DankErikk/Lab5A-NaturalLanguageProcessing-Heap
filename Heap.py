@@ -1,3 +1,8 @@
+# Erik Rivera
+# CS2302 TR 10:30 - 11:50
+# Aguirre Diego
+# 11/29/2018
+
 class Heap:
     def __init__(self):
         self.heap_array = []
